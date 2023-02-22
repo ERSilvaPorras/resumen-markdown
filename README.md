@@ -1,3 +1,8 @@
+![logo markdown](./img/logo-markdown.png)
+
+<br>
+<br>
+
 # Conceptos Fundamentales de Markdown
 
 ## Indice
